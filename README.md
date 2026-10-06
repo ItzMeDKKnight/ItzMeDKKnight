@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [OpenVeil — an open-source, free-to-use VPN](https://github.com/ItzMeDKKnight/OpenVeil---An-open-source-free-to-use-VPN)
 
-- 🌱 I’m currently learning **Java,DSA, System Design & DevOps**
+- 🌱 I’m currently learning **Java, DSA, System Design & DevOps**
 
 - 👯 I’m looking to collaborate on [Open-source & privacy projects](https://github.com/ItzMeDKKnight/OpenVeil---An-open-source-free-to-use-VPN)
 
